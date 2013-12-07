@@ -93,7 +93,7 @@ Partial Class Report1
         Me.sales_dtCaptionTextBox.CanGrow = True
         Me.sales_dtCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.0729166641831398R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_dtCaptionTextBox.Name = "sales_dtCaptionTextBox"
-        Me.sales_dtCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_dtCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.70974290370941162R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_dtCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_dtCaptionTextBox.StyleName = "Caption"
         Me.sales_dtCaptionTextBox.Value = "Sales Date" & Global.Microsoft.VisualBasic.ChrW(9)
@@ -103,7 +103,7 @@ Partial Class Report1
         Me.sales_inv_idCaptionTextBox.CanGrow = True
         Me.sales_inv_idCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.782738208770752R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_inv_idCaptionTextBox.Name = "sales_inv_idCaptionTextBox"
-        Me.sales_inv_idCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_inv_idCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.70974260568618774R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_inv_idCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_inv_idCaptionTextBox.StyleName = "Caption"
         Me.sales_inv_idCaptionTextBox.Value = "Invoice"
@@ -113,7 +113,7 @@ Partial Class Report1
         Me.item_nbrCaptionTextBox.CanGrow = True
         Me.item_nbrCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.492559552192688R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.item_nbrCaptionTextBox.Name = "item_nbrCaptionTextBox"
-        Me.item_nbrCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.item_nbrCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.2072827816009521R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_nbrCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.item_nbrCaptionTextBox.StyleName = "Caption"
         Me.item_nbrCaptionTextBox.Value = "Item Number"
@@ -121,9 +121,9 @@ Partial Class Report1
         'item_descCaptionTextBox
         '
         Me.item_descCaptionTextBox.CanGrow = True
-        Me.item_descCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(2.181626558303833R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.item_descCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(2.6999213695526123R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.item_descCaptionTextBox.Name = "item_descCaptionTextBox"
-        Me.item_descCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(2.3292267322540283R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.item_descCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(2.3115277290344238R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_descCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.item_descCaptionTextBox.StyleName = "Caption"
         Me.item_descCaptionTextBox.Value = "Item Description"
@@ -131,7 +131,7 @@ Partial Class Report1
         'item_initial_purchase_dtCaptionTextBox
         '
         Me.item_initial_purchase_dtCaptionTextBox.CanGrow = True
-        Me.item_initial_purchase_dtCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.510932445526123R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.item_initial_purchase_dtCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.0115280151367188R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.item_initial_purchase_dtCaptionTextBox.Name = "item_initial_purchase_dtCaptionTextBox"
         Me.item_initial_purchase_dtCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_initial_purchase_dtCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
@@ -141,9 +141,9 @@ Partial Class Report1
         'cust_item_yrsCaptionTextBox
         '
         Me.cust_item_yrsCaptionTextBox.CanGrow = True
-        Me.cust_item_yrsCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.2000002861022949R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.cust_item_yrsCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.7005963325500488R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.cust_item_yrsCaptionTextBox.Name = "cust_item_yrsCaptionTextBox"
-        Me.cust_item_yrsCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.47857129573822021R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.cust_item_yrsCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.49932453036308289R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.cust_item_yrsCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.cust_item_yrsCaptionTextBox.StyleName = "Caption"
         Me.cust_item_yrsCaptionTextBox.Value = "Cust Years"
@@ -151,9 +151,9 @@ Partial Class Report1
         'sales_item_qtyCaptionTextBox
         '
         Me.sales_item_qtyCaptionTextBox.CanGrow = True
-        Me.sales_item_qtyCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.6994047164916992R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_item_qtyCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.2000002861022949R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_item_qtyCaptionTextBox.Name = "sales_item_qtyCaptionTextBox"
-        Me.sales_item_qtyCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_item_qtyCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.7097432017326355R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_qtyCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_item_qtyCaptionTextBox.StyleName = "Caption"
         Me.sales_item_qtyCaptionTextBox.Value = "Ship Qty"
@@ -161,9 +161,9 @@ Partial Class Report1
         'sales_item_costCaptionTextBox
         '
         Me.sales_item_costCaptionTextBox.CanGrow = True
-        Me.sales_item_costCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.4092264175415039R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_item_costCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.9098224639892578R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_item_costCaptionTextBox.Name = "sales_item_costCaptionTextBox"
-        Me.sales_item_costCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_item_costCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.73049646615982056R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_costCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_item_costCaptionTextBox.StyleName = "Caption"
         Me.sales_item_costCaptionTextBox.Value = "Total Cost"
@@ -171,7 +171,7 @@ Partial Class Report1
         'sales_item_priceCaptionTextBox
         '
         Me.sales_item_priceCaptionTextBox.CanGrow = True
-        Me.sales_item_priceCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.11904764175415R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_item_priceCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.6403975486755371R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_item_priceCaptionTextBox.Name = "sales_item_priceCaptionTextBox"
         Me.sales_item_priceCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_priceCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
@@ -181,9 +181,9 @@ Partial Class Report1
         'sales_markup_pctCaptionTextBox
         '
         Me.sales_markup_pctCaptionTextBox.CanGrow = True
-        Me.sales_markup_pctCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.8288688659667969R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_markup_pctCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(8.32946491241455R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_markup_pctCaptionTextBox.Name = "sales_markup_pctCaptionTextBox"
-        Me.sales_markup_pctCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_markup_pctCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.70974260568618774R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_markup_pctCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_markup_pctCaptionTextBox.StyleName = "Caption"
         Me.sales_markup_pctCaptionTextBox.Value = "Mark Up"
@@ -191,9 +191,9 @@ Partial Class Report1
         'sales_comm_pctCaptionTextBox
         '
         Me.sales_comm_pctCaptionTextBox.CanGrow = True
-        Me.sales_comm_pctCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(8.5386905670166016R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_comm_pctCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.0392866134643555R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_comm_pctCaptionTextBox.Name = "sales_comm_pctCaptionTextBox"
-        Me.sales_comm_pctCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.sales_comm_pctCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.7097432017326355R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_pctCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
         Me.sales_comm_pctCaptionTextBox.StyleName = "Caption"
         Me.sales_comm_pctCaptionTextBox.Value = "Comm Pct"
@@ -201,7 +201,7 @@ Partial Class Report1
         'sales_comm_amCaptionTextBox
         '
         Me.sales_comm_amCaptionTextBox.CanGrow = True
-        Me.sales_comm_amCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.2485122680664062R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.sales_comm_amCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.74910831451416R), Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R))
         Me.sales_comm_amCaptionTextBox.Name = "sales_comm_amCaptionTextBox"
         Me.sales_comm_amCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_amCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Center
@@ -229,7 +229,8 @@ Partial Class Report1
         'sales_item_qtySumFunctionTextBox1
         '
         Me.sales_item_qtySumFunctionTextBox1.CanGrow = True
-        Me.sales_item_qtySumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.6994047164916992R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_qtySumFunctionTextBox1.Format = "{0:N0}"
+        Me.sales_item_qtySumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.2000007629394531R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_qtySumFunctionTextBox1.Name = "sales_item_qtySumFunctionTextBox1"
         Me.sales_item_qtySumFunctionTextBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_qtySumFunctionTextBox1.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -240,7 +241,7 @@ Partial Class Report1
         '
         Me.sales_item_costSumFunctionTextBox1.CanGrow = True
         Me.sales_item_costSumFunctionTextBox1.Format = "{0:N2}"
-        Me.sales_item_costSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.4092264175415039R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_costSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.909822940826416R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_costSumFunctionTextBox1.Name = "sales_item_costSumFunctionTextBox1"
         Me.sales_item_costSumFunctionTextBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_costSumFunctionTextBox1.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -251,7 +252,7 @@ Partial Class Report1
         '
         Me.sales_item_priceSumFunctionTextBox1.CanGrow = True
         Me.sales_item_priceSumFunctionTextBox1.Format = "{0:N2}"
-        Me.sales_item_priceSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.11904764175415R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_priceSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.6196441650390625R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_priceSumFunctionTextBox1.Name = "sales_item_priceSumFunctionTextBox1"
         Me.sales_item_priceSumFunctionTextBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_priceSumFunctionTextBox1.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -262,7 +263,7 @@ Partial Class Report1
         '
         Me.sales_comm_amSumFunctionTextBox1.CanGrow = True
         Me.sales_comm_amSumFunctionTextBox1.Format = "{0:N2}"
-        Me.sales_comm_amSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.2485122680664062R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_comm_amSumFunctionTextBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.710972785949707R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_comm_amSumFunctionTextBox1.Name = "sales_comm_amSumFunctionTextBox1"
         Me.sales_comm_amSumFunctionTextBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_amSumFunctionTextBox1.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -347,7 +348,8 @@ Partial Class Report1
         'sales_item_qtySumFunctionTextBox2
         '
         Me.sales_item_qtySumFunctionTextBox2.CanGrow = True
-        Me.sales_item_qtySumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.6994047164916992R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_qtySumFunctionTextBox2.Format = "{0:N0}"
+        Me.sales_item_qtySumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.2000007629394531R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_qtySumFunctionTextBox2.Name = "sales_item_qtySumFunctionTextBox2"
         Me.sales_item_qtySumFunctionTextBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_qtySumFunctionTextBox2.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -358,7 +360,7 @@ Partial Class Report1
         '
         Me.sales_item_costSumFunctionTextBox2.CanGrow = True
         Me.sales_item_costSumFunctionTextBox2.Format = "{0:N2}"
-        Me.sales_item_costSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.4092264175415039R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_costSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.909822940826416R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_costSumFunctionTextBox2.Name = "sales_item_costSumFunctionTextBox2"
         Me.sales_item_costSumFunctionTextBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_costSumFunctionTextBox2.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -369,7 +371,7 @@ Partial Class Report1
         '
         Me.sales_item_priceSumFunctionTextBox2.CanGrow = True
         Me.sales_item_priceSumFunctionTextBox2.Format = "{0:N2}"
-        Me.sales_item_priceSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.11904764175415R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_priceSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.6196441650390625R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_priceSumFunctionTextBox2.Name = "sales_item_priceSumFunctionTextBox2"
         Me.sales_item_priceSumFunctionTextBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_priceSumFunctionTextBox2.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -380,7 +382,7 @@ Partial Class Report1
         '
         Me.sales_comm_amSumFunctionTextBox2.CanGrow = True
         Me.sales_comm_amSumFunctionTextBox2.Format = "{0:N2}"
-        Me.sales_comm_amSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.2485122680664062R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_comm_amSumFunctionTextBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.710972785949707R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_comm_amSumFunctionTextBox2.Name = "sales_comm_amSumFunctionTextBox2"
         Me.sales_comm_amSumFunctionTextBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_amSumFunctionTextBox2.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -500,14 +502,14 @@ Partial Class Report1
         Me.item_nbrDataTextBox.CanGrow = True
         Me.item_nbrDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.492559552192688R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.item_nbrDataTextBox.Name = "item_nbrDataTextBox"
-        Me.item_nbrDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
+        Me.item_nbrDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.1074403524398804R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_nbrDataTextBox.StyleName = "Data"
         Me.item_nbrDataTextBox.Value = "=Fields.item_nbr"
         '
         'item_descDataTextBox
         '
         Me.item_descDataTextBox.CanGrow = True
-        Me.item_descDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(2.181626558303833R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.item_descDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(2.6602776050567627R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.item_descDataTextBox.Name = "item_descDataTextBox"
         Me.item_descDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(2.3292267322540283R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_descDataTextBox.StyleName = "Data"
@@ -517,7 +519,7 @@ Partial Class Report1
         '
         Me.item_initial_purchase_dtDataTextBox.CanGrow = True
         Me.item_initial_purchase_dtDataTextBox.Format = "{0:d}"
-        Me.item_initial_purchase_dtDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.5109329223632812R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.item_initial_purchase_dtDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.9895834922790527R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.item_initial_purchase_dtDataTextBox.Name = "item_initial_purchase_dtDataTextBox"
         Me.item_initial_purchase_dtDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.item_initial_purchase_dtDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -528,7 +530,7 @@ Partial Class Report1
         '
         Me.cust_item_yrsDataTextBox.CanGrow = True
         Me.cust_item_yrsDataTextBox.Format = "{0:N0}"
-        Me.cust_item_yrsDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.2000002861022949R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.cust_item_yrsDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.7005963325500488R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.cust_item_yrsDataTextBox.Name = "cust_item_yrsDataTextBox"
         Me.cust_item_yrsDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.47857129573822021R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.cust_item_yrsDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -538,7 +540,8 @@ Partial Class Report1
         'sales_item_qtyDataTextBox
         '
         Me.sales_item_qtyDataTextBox.CanGrow = True
-        Me.sales_item_qtyDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.6994047164916992R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_qtyDataTextBox.Format = "{0:N0}"
+        Me.sales_item_qtyDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.2000007629394531R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_qtyDataTextBox.Name = "sales_item_qtyDataTextBox"
         Me.sales_item_qtyDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_qtyDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -549,7 +552,7 @@ Partial Class Report1
         '
         Me.sales_item_costDataTextBox.CanGrow = True
         Me.sales_item_costDataTextBox.Format = "{0:N2}"
-        Me.sales_item_costDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.4092264175415039R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_costDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.909822940826416R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_costDataTextBox.Name = "sales_item_costDataTextBox"
         Me.sales_item_costDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_costDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -560,7 +563,7 @@ Partial Class Report1
         '
         Me.sales_item_priceDataTextBox.CanGrow = True
         Me.sales_item_priceDataTextBox.Format = "{0:N2}"
-        Me.sales_item_priceDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.11904764175415R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_item_priceDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.6196441650390625R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_item_priceDataTextBox.Name = "sales_item_priceDataTextBox"
         Me.sales_item_priceDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_item_priceDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -571,7 +574,7 @@ Partial Class Report1
         '
         Me.sales_markup_pctDataTextBox.CanGrow = True
         Me.sales_markup_pctDataTextBox.Format = "{0:P2}"
-        Me.sales_markup_pctDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.8288688659667969R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_markup_pctDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(8.32946491241455R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_markup_pctDataTextBox.Name = "sales_markup_pctDataTextBox"
         Me.sales_markup_pctDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_markup_pctDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -582,7 +585,7 @@ Partial Class Report1
         '
         Me.sales_comm_pctDataTextBox.CanGrow = True
         Me.sales_comm_pctDataTextBox.Format = "{0:P2}"
-        Me.sales_comm_pctDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(8.5386905670166016R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_comm_pctDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.0392866134643555R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_comm_pctDataTextBox.Name = "sales_comm_pctDataTextBox"
         Me.sales_comm_pctDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_pctDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -593,7 +596,7 @@ Partial Class Report1
         '
         Me.sales_comm_amDataTextBox.CanGrow = True
         Me.sales_comm_amDataTextBox.Format = "{0:N2}"
-        Me.sales_comm_amDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.2485122680664062R), Telerik.Reporting.Drawing.Unit.Inch(0.02083333395421505R))
+        Me.sales_comm_amDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(9.710972785949707R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
         Me.sales_comm_amDataTextBox.Name = "sales_comm_amDataTextBox"
         Me.sales_comm_amDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.6889880895614624R), Telerik.Reporting.Drawing.Unit.Inch(0.40000000596046448R))
         Me.sales_comm_amDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
@@ -620,7 +623,7 @@ Partial Class Report1
         Me.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.labelsGroupHeaderSection, Me.labelsGroupFooterSection, Me.sales_rep_assoc_nmGroupHeaderSection, Me.sales_rep_assoc_nmGroupFooterSection, Me.cust_nmGroupHeaderSection, Me.cust_nmGroupFooterSection, Me.reportFooter, Me.pageHeader, Me.pageFooter, Me.reportHeader, Me.detail})
         Me.Name = "Report1"
         Me.PageSettings.Landscape = True
-        Me.PageSettings.Margins = New Telerik.Reporting.Drawing.MarginsU(Telerik.Reporting.Drawing.Unit.Inch(0.5R), Telerik.Reporting.Drawing.Unit.Inch(0.5R), Telerik.Reporting.Drawing.Unit.Inch(0.5R), Telerik.Reporting.Drawing.Unit.Inch(0.5R))
+        Me.PageSettings.Margins = New Telerik.Reporting.Drawing.MarginsU(Telerik.Reporting.Drawing.Unit.Inch(0.30000001192092896R), Telerik.Reporting.Drawing.Unit.Inch(0.30000001192092896R), Telerik.Reporting.Drawing.Unit.Inch(0.5R), Telerik.Reporting.Drawing.Unit.Inch(0.5R))
         Me.PageSettings.PaperKind = System.Drawing.Printing.PaperKind.Letter
         ReportParameter1.AllowBlank = False
         ReportParameter1.Name = "StartDate"
@@ -639,7 +642,6 @@ Partial Class Report1
         ReportParameter3.AvailableValues.ValueMember = "= Fields.sales_rep_assoc_nm"
         ReportParameter3.Name = "SalesRepName"
         ReportParameter3.Text = "SalesRepName"
-        ReportParameter3.Visible = True
         Me.ReportParameters.Add(ReportParameter1)
         Me.ReportParameters.Add(ReportParameter2)
         Me.ReportParameters.Add(ReportParameter3)
@@ -666,7 +668,7 @@ Partial Class Report1
         StyleRule4.Style.Font.Size = Telerik.Reporting.Drawing.Unit.Point(8.0R)
         StyleRule4.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         Me.StyleSheet.AddRange(New Telerik.Reporting.Drawing.StyleRule() {StyleRule1, StyleRule2, StyleRule3, StyleRule4})
-        Me.Width = Telerik.Reporting.Drawing.Unit.Inch(10.083333015441895R)
+        Me.Width = Telerik.Reporting.Drawing.Unit.Inch(10.5R)
         CType(Me, System.ComponentModel.ISupportInitialize).EndInit()
 
     End Sub
